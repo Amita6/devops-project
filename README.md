@@ -39,3 +39,14 @@ cd terraform
 terraform init
 terraform plan
 terraform apply
+
+
+Part 2: Self-Assessment
+I would rate my current DevOps skillset as follows:
+
+CI/CD: 2.5 / 5
+Docker: 4 / 5
+Kubernetes: 4 / 5
+Terraform: 3 / 5
+Monitoring (Grafana/Prometheus): 3 / 5
+Git: 4 / 5
